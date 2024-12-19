@@ -23,5 +23,4 @@ if errorlevel 1 (
 
 
 @echo [SCRIPT]: Successfully, hide Steam to tray...
-
 powershell -command "(Get-Process | Where-Object {$_.MainWindowTitle -like '*Steam*'}).CloseMainWindow() | Out-Null"
