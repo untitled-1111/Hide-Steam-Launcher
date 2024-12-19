@@ -6,6 +6,8 @@
 ## 🚀 Использование
 1. Скачайте скрипт [Launcher.bat](https://github.com/untitled-1111/Hide-Steam-Launcher/releases), откройте его при помощи блокнота, и замените переменные path_steam и id_game на свои (path_steam - путь к папке стима, [id_game](https://steamdb.info/) - идентификатор приложения)
 
+![{9D2D438F-C039-4284-BD3E-CD2CC7EC9F35}](https://github.com/user-attachments/assets/d02284e3-24a1-4dd2-a756-9bd80df2d746)
+
 2. Создайте ярлык скрипта
 
 ![{3D4091A1-9FF6-4355-BC1D-6B8C684CBA8C}](https://github.com/user-attachments/assets/7d2b8c24-2ac9-4d49-9d48-8beddacbf21d)
